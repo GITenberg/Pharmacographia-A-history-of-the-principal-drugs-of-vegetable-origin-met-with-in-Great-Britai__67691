@@ -1,0 +1,43 @@
+_repo: Pharmacographia-A-history-of-the-principal-drugs-of-vegetable-origin-met-with-in-Great-Britai__67691
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Hanbury, Daniel
+    alias: Hanbury, D. (Daniel)
+    birthdate: 1825
+    deathdate: 1875
+    gutenberg_agent_id: '54399'
+    url: http://www.gutenberg.org/2009/agents/54399
+    wikipedia: https://en.wikipedia.org/wiki/Daniel_Hanbury
+  - agent_name: Flückiger, Friedrich A. (Friedrich August)
+    alias: Fluckiger, F. A. (Friedrich August)
+    birthdate: 1828
+    deathdate: 1894
+    gutenberg_agent_id: '54398'
+    url: http://www.gutenberg.org/2009/agents/54398
+    wikipedia: https://en.wikipedia.org/wiki/Friedrich_August_Fl%C3%BCckiger
+description: ''
+gutenberg_issued: '2022-03-23'
+identifiers:
+  gutenberg: '67691'
+  lccn: a11001787
+language: en
+pgterms:marc904: https://archive.org/details/b21355022
+pgterms:marc905: 20191103013300flckiger
+pgterms:marc906: '1879'
+pgterms:marc907: en
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: en :Macmillan and Co.,1879.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Materia medica, Vegetable'
+- !lcsh 'Materia medica, Vegetable -- Great Britain'
+- !lcsh 'Botany, Medical'
+- !lcc 'RS'
+- !lcsh 'Materia medica, Vegetable -- India'
+- GITenberg
+title: "Pharmacographia\r\nA history of the principal drugs of vegetable origin, met\
+  \ with in Great Britain and British India"
+url: http://www.gutenberg.org/ebooks/67691
