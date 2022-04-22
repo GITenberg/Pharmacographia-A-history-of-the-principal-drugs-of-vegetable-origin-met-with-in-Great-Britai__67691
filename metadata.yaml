@@ -1,5 +1,8 @@
 _repo: Pharmacographia-A-history-of-the-principal-drugs-of-vegetable-origin-met-with-in-Great-Britai__67691
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67691-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Hanbury, Daniel
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54398
     wikipedia: https://en.wikipedia.org/wiki/Friedrich_August_Fl%C3%BCckiger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67691#Pharmacographia-A-history-of-the-principal-drugs-of-vegetable-origin-met-with-in-Great-Britai_
 gutenberg_issued: '2022-03-23'
 identifiers:
   gutenberg: '67691'
